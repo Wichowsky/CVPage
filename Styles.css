@@ -7,7 +7,7 @@ body {
     margin: 0;
     padding: 0;
     height: 100vh;
-    background: url('ImagenesCV/NovaFondo.jPG') no-repeat center center/cover;
+    background: url('./ImagenesCV/NovaFondo.jpg') no-repeat center center/cover;
     background-size: cover;
     overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal */
 
